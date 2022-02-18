@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Rating": 2,
+    "MovieId": 1,
+    "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem."
+  },
+  {
+    "Id": 2,
+    "Rating": 5,
+    "MovieId": 2,
+    "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem."
+  },
+  {
+    "Id": 3,
+    "Rating": 9,
+    "MovieId": 3,
+    "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem."
+  },
+  {
+    "Id": 4,
+    "Rating": 7,
+    "MovieId": 4,
+    "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem."
+  },
+  {
+    "Id": 5,
+    "Rating": 8,
+    "MovieId": 4,
+    "Comment": "10/10 Polecam serdecznie."
+  }
+]

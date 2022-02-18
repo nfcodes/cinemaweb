@@ -1,0 +1,42 @@
+[
+  {
+    "Title": "Titanic",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem.",
+    "Director": "James Cameron",
+    "PictureUrl": "images/movies/movie1.png",
+    "Rating": 6,
+    "ReleaseYear": 1997
+  },
+  {
+    "Title": "Fight Club",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem.",
+    "Director": "David Fincher",
+    "PictureUrl": "images/movies/movie2.png",
+    "Rating": 9,
+    "ReleaseYear": 1999
+  },
+  {
+    "Title": "The Godfather",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem.",
+    "Director": "David Fincher",
+    "PictureUrl": "images/movies/movie3.png",
+    "Rating": 9,
+    "ReleaseYear": 1972
+  },
+  {
+    "Title": "Forrest Gump",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem.",
+    "Director": "Robert Zemeckis",
+    "PictureUrl": "images/movies/movie4.png",
+    "Rating": 9,
+    "ReleaseYear": 1994
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tempor dolor, vel venenatis leo. Nunc dignissim euismod odio. Phasellus nec sapien ex. Phasellus vitae tellus tincidunt, elementum velit nec, lobortis velit. Sed eget odio felis. Proin sed ex elementum, maximus augue fermentum, ultrices lacus. Duis non scelerisque lorem.",
+    "Director": "Quentin Tarantino",
+    "PictureUrl": "images/movies/movie5.png",
+    "Rating": 10,
+    "ReleaseYear": 1994
+  }
+]

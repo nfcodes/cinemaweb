@@ -1,0 +1,26 @@
+[
+  {
+    "MovieId": 1,
+    "CategoryId": 2
+  },
+  {
+    "MovieId": 1,
+    "CategoryId": 1
+  },
+  {
+    "MovieId": 2,
+    "CategoryId": 4
+  },
+  {
+    "MovieId": 3,
+    "CategoryId": 3
+  },
+  {
+    "MovieId": 3,
+    "CategoryId": 2
+  },
+  {
+    "MovieId": 3,
+    "CategoryId": 1
+  }
+]
